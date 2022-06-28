@@ -1,1 +1,1 @@
-New branch file for test
+New branch file in master and new branch
